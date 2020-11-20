@@ -1,0 +1,11 @@
+[Unit]
+Description=Very Slow Movie Player
+
+[Service]
+User=pi
+Group=pi
+Type=simple
+ExecStart=@CMAKE_INSTALL_PREFIX@/bin/vsmp
+
+[Install]
+WantedBy=multi-user.target
