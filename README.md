@@ -10,4 +10,4 @@ uncomfortable silence literally lasting an entire day. Epic.
 
 ## Documentation
 
-See my website [https://ax-h.com](https://ax-h.com/development/raspberry-pi/2020/11/27/very-slow-movie-player.html)
+See my website [https://ax-h.com](https://ax-h.com/development/raspberry-pi/2020/11/29/very-slow-movie-player.html)
